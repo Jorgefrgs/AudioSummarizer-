@@ -24,7 +24,7 @@ Certifique-se de ter os seguintes itens instalados:
 
 ```bash
 git clone https://github.com/Jorgefrgs/AudioSummarizer-.git
-cd AudioSummerizer
+cd AudioAnaliser
 ```
 
 ### 2. Crie um Ambiente Virtual (opcional, mas recomendado)
