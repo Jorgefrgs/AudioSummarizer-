@@ -23,8 +23,8 @@ Certifique-se de ter os seguintes itens instalados:
 ### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/Jorgefrgs/AudioSummarizer-.git
+cd AudioSummerizer
 ```
 
 ### 2. Crie um Ambiente Virtual (opcional, mas recomendado)
