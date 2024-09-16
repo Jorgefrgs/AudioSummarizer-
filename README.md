@@ -25,24 +25,28 @@ Certifique-se de ter os seguintes itens instalados:
 ```bash
 git clone https://github.com/seu-repositorio.git
 cd seu-repositorio
+```
 
 ### 2. Crie um Ambiente Virtual (opcional, mas recomendado)
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # No Windows, use: venv\Scripts\activate
+```
 
 ### 3. Instale as Dependências
 
 ```bash
 pip install pytubefix whisper openai python-dotenv
+```
 
-### 4. Configure as Chaves de API
+### 4. Configure as Chaves da API
 
 1. Crie um arquivo .env no diretório raiz do projeto.
 2. No arquivo .env, adicione a sua chave de API da OpenAI:
 
 ```makefile
 API_KEY=sua-chave-de-api-da-openai
+```
 
 
